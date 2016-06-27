@@ -1,5 +1,8 @@
 #exclude data folders
 /data/**/*
 
+#exclude checkpoints
+/.ipynb_checkpoints/**/*
+
 #exclude zip files
 **/*.zip
